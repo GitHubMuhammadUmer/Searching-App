@@ -1,0 +1,40 @@
+.navbar{
+    background-color: orange !important;
+}
+/* .main div{
+    display: flex;
+flex-wrap: wrap;
+display: inline-block;
+} */
+
+.black{
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: black;
+}
+
+.card-body{
+    text-align: center;
+}
+.silver{
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: silver;
+}
+
+.card-img-top{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+.card image{
+    height: 200px;
+}
+.card{
+    height: 420px;
+}
+.row{
+    padding-bottom: 10px;
+}
